@@ -37,7 +37,7 @@ $ python pprint_json.py <path to file>
 # Requirements
 
  - Python 3.5
- - Text data file with utf-8 encoding;
+ - Text data file with cp1251 encoding;
 
 # Project Goals
 
